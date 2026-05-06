@@ -1,0 +1,9 @@
+# Stack de Transformación (Versión Estable)
+docling==2.0.0
+docling-core==2.0.0
+docling-parse==1.6.2
+
+# Otros
+pymupdf
+ipykernel
+pathlib
