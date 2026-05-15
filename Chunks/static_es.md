@@ -438,7 +438,7 @@ source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
 split_idx_start: 14884
 overlap_range: "(675, 787)"
-word_count: 62
+word_count: 61
 lang: es
 method: static
 ---
@@ -449,161 +449,156 @@ mixto)[ Mental health consultations in a prison population: a descriptive study 
 
 ## En nuestros datos:
 
-| Unidad   | Psiquiatras por 100   | Lectura                   |
-|----------|-----------------------|---------------------------|
-| CPF I    | 0,21                  | límite inferior aceptable |
-| CPF II   |
+| Unidad   | Psiquiatras por 100       | Lectura     |
+|----------|---------------------------|-------------|
+| 0,21     | límite inferior aceptable | CPF I       |
+|          | Disminuido
 
 ---
 chunk_id: 24
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 15347
-overlap_range: "(463, 511)"
-word_count: 64
+split_idx_start: 15365
+overlap_range: "(481, 506)"
+word_count: 88
 lang: es
 method: static
 ---
 
-| límite inferior aceptable |
-| CPF II   | 0,11 Disminuido       |                           |
+Disminuido                | CPF II 0,11 |
 
 Fuente: elaboración propia Ministerio de Seguridad Nacional. Año 2026.
 
-A nivel internacionalexiste mayor disponibilidad de psicólogos y los psiquiatras resultanun recursoescasoy cuello de botella,lo cual se ha descritoen literatura penitenciaria( correctionalmental health ) por la dificultadde reclutamiento,baja dedicación horaria y dependencia de interconsultas como modalidad de abordaje. [ MisconceptionsAbout Workingin CorrectionalPsychiatry|
+A nivel internacionalexiste mayor disponibilidad de psicólogos y los psiquiatras resultanun recursoescasoy cuello de botella,lo cual se ha descritoen literatura penitenciaria( correctionalmental health ) por la dificultadde reclutamiento,baja dedicación horaria y dependencia de interconsultas como modalidad de abordaje. [ MisconceptionsAbout Workingin CorrectionalPsychiatry| Journalof the American Academy of Psychiatry and the Law ]
+
+Sin perjuicio de ello, con el objetivo de incorporar mayor cantidad de profesionalesde la salud al ServicioPenitenciarioFederal, mediante el Decreto N°
 
 ---
 chunk_id: 25
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 15744
-overlap_range: "(397, 551)"
-word_count: 103
+split_idx_start: 15948
+overlap_range: "(583, 705)"
+word_count: 104
 lang: es
 method: static
 ---
 
-reclutamiento,baja dedicación horaria y dependencia de interconsultas como modalidad de abordaje. [ MisconceptionsAbout Workingin CorrectionalPsychiatry| Journalof the American Academy of Psychiatry and the Law ]
-
-Sin perjuicio de ello, con el objetivo de incorporar mayor cantidad de profesionalesde la salud al ServicioPenitenciarioFederal, mediante el Decreto N° 455/2025, que aprobó el nuevo Estatutodel ServicioPenitenciarioFederal, se jerarquizó al escalafón profesionalpropiciandosu ingreso a la fuerzacomo Oficiales. Con ello, se logró la incorporación de 147 profesionales de la salud.
+objetivo de incorporar mayor cantidad de profesionalesde la salud al ServicioPenitenciarioFederal, mediante el Decreto N° 455/2025, que aprobó el nuevo Estatutodel ServicioPenitenciarioFederal, se jerarquizó al escalafón profesionalpropiciandosu ingreso a la fuerzacomo Oficiales. Con ello, se logró la incorporación de 147 profesionales de la salud.
 
 ## PREGUNTA N° 48
 
-CIBERSEGURIDADInforme cuáles son las medidas de ciberdefensaactivaque se están implementando sobre infraestructura crítica de centralesnucleares o represas,ante el aumento de actividad de grupos de
+CIBERSEGURIDADInforme cuáles son las medidas de ciberdefensaactivaque se están implementando sobre infraestructura crítica de centralesnucleares o represas,ante el aumento de actividad de grupos de hacktivismoo células de inteligencia extranjera,detectadasen la región de la Triple Fontera, durante el último año.
+
+## RESPUESTA
+
+El Ministerio de Defensa informa que las medidas llevadas a cabo tienen clasificación de seguridad,
 
 ---
 chunk_id: 26
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 16438
-overlap_range: "(694, 813)"
-word_count: 104
+split_idx_start: 16637
+overlap_range: "(689, 800)"
+word_count: 103
 lang: es
 method: static
 ---
 
-implementando sobre infraestructura crítica de centralesnucleares o represas,ante el aumento de actividad de grupos de hacktivismoo células de inteligencia extranjera,detectadasen la región de la Triple Fontera, durante el último año.
-
-## RESPUESTA
+RESPUESTA
 
 El Ministerio de Defensa informa que las medidas llevadas a cabo tienen clasificación de seguridad, estas no pueden ser públicadas , puesto que de otra manera se atentaría contra la eficiencia de las mismas.
 
 ## PREGUNTA N° 49
 
-SALUD MENTAL, TECNOLOGIAY ADICCIONES Recientementeel Jurado de Los Angeles (EE UU) emitió un fallo histórico declarando a los gigantes tecnológicos Metay Youtuberesponsablesciviles,pornegligenciay porel diseño deliberadamente adictivo de sus plataformas, dañando la salud mental de
+SALUD MENTAL, TECNOLOGIAY ADICCIONES Recientementeel Jurado de Los Angeles (EE UU) emitió un fallo histórico declarando a los gigantes tecnológicos Metay Youtuberesponsablesciviles,pornegligenciay porel diseño deliberadamente adictivo de sus plataformas, dañando la salud mental de la población, condenando a indemnizaciones. Tomando este precedentejudicial internacionalsobreresponsabilidadde empresas tecnológicas en la salud mental infantil; informe acciones del Ministerio de Capital Humano (Secretaria de Educación) conjuntamente con el Ministerio
 
 ---
 chunk_id: 27
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 17051
-overlap_range: "(613, 760)"
-word_count: 100
+split_idx_start: 17311
+overlap_range: "(674, 792)"
+word_count: 102
 lang: es
 method: static
 ---
 
-tecnológicos Metay Youtuberesponsablesciviles,pornegligenciay porel diseño deliberadamente adictivo de sus plataformas, dañando la salud mental de la población, condenando a indemnizaciones. Tomando este precedentejudicial internacionalsobreresponsabilidadde empresas tecnológicas en la salud mental infantil; informe acciones del Ministerio de Capital Humano (Secretaria de Educación) conjuntamente con el Ministerio de Salud y herramientas para prevención de neuro adicción a las redessociales.Anteel crecienteaumentode casos de ludopatía en niños y adolescentes,consecuenciadel uso excesivode plataformasde juego digital; informesi el Poder Ejecutivoa través de las áreas pertinentes, realizó estudios o evaluacionessobrela efectividadde las escasas intervencionesestatales, como leyendas obligatorias para advertenciade uso en menores. Qué medidas de fiscalización conjunta
+infantil; informe acciones del Ministerio de Capital Humano (Secretaria de Educación) conjuntamente con el Ministerio de Salud y herramientas para prevención de neuro adicción a las redessociales.Anteel crecienteaumentode casos de ludopatía en niños y adolescentes,consecuenciadel uso excesivode plataformasde juego digital; informesi el Poder Ejecutivoa través de las áreas pertinentes, realizó estudios o evaluacionessobrela efectividadde las escasas intervencionesestatales, como leyendas obligatorias para advertenciade uso en menores. Qué medidas de fiscalización conjunta con el Banco Central y la CNVvienenllevandoa caboparagarantizarla efectiva participación de menores.
+
+## RESPUESTA
+
+El Ministerio de Capital Humano Informaque la respuestase encuentraen las respuestas de las Preguntas N° 14, 797 y
 
 ---
 chunk_id: 28
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 17796
-overlap_range: "(745, 878)"
-word_count: 105
+split_idx_start: 18022
+overlap_range: "(711, 809)"
+word_count: 103
 lang: es
 method: static
 ---
 
-escasas intervencionesestatales, como leyendas obligatorias para advertenciade uso en menores. Qué medidas de fiscalización conjunta con el Banco Central y la CNVvienenllevandoa caboparagarantizarla efectiva participación de menores.
-
-## RESPUESTA
-
-El Ministerio de Capital Humano Informaque la respuestase encuentraen las respuestas de las Preguntas N° 14, 797 y 1443 del presente informe.
+Capital Humano Informaque la respuestase encuentraen las respuestas de las Preguntas N° 14, 797 y 1443 del presente informe.
 
 Por su parte, la Comisión Nacional de Valores(CNV) informaque no es de su competenciasupervisarni regularplataformasde juego digital. La competencia de la CNV se limita al mercadode capitales, según la Ley N°26.831, y a PSAVs, según la Ley N° 27.739.
 
 ## PREGUNTA N° 50
 
-EMPLEO, REGISTRACIÓN LABORAL Y RIGI En relación a registraciones laboralesen el
+EMPLEO, REGISTRACIÓN LABORAL Y RIGI En relación a registraciones laboralesen el periodo posteriora la entradaen vigencia de la Ley 27.742 y su Reglamentación mediante Decreto847/2024; informe:cantidad de altas y bajas de trabajadoresregistradosen el sistema de registración laboral administrado porese organismo(periodo8/07/2024a la
 
 ---
 chunk_id: 29
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 18428
-overlap_range: "(632, 743)"
-word_count: 104
+split_idx_start: 18620
+overlap_range: "(598, 730)"
+word_count: 103
 lang: es
 method: static
 ---
 
-N° 27.739.
-
-## PREGUNTA N° 50
-
-EMPLEO, REGISTRACIÓN LABORAL Y RIGI En relación a registraciones laboralesen el periodo posteriora la entradaen vigencia de la Ley 27.742 y su Reglamentación mediante Decreto847/2024; informe:cantidad de altas y bajas de trabajadoresregistradosen el sistema de registración laboral administrado porese organismo(periodo8/07/2024a la fecha). Sírvase indicary detallaresas altas y bajas con los siguientes criterios de desagregación: por actividad económica, por jurisdicción o provincia, por tamaño de empleador (mico, pequeña, mediana o gran empresa),por motivode baja (renuncia,despido,baja de oficio) conforme tipo de registración que registre dicho organismo.
-
-## RESPUESTA
-
-El Ministeriode CapitalHumano informaque presentatrestablascon las altas y bajas de puestos de
-
----
-chunk_id: 30
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 19096
-overlap_range: "(668, 804)"
-word_count: 104
-lang: es
-method: static
----
-
-registre dicho organismo.
+de altas y bajas de trabajadoresregistradosen el sistema de registración laboral administrado porese organismo(periodo8/07/2024a la fecha). Sírvase indicary detallaresas altas y bajas con los siguientes criterios de desagregación: por actividad económica, por jurisdicción o provincia, por tamaño de empleador (mico, pequeña, mediana o gran empresa),por motivode baja (renuncia,despido,baja de oficio) conforme tipo de registración que registre dicho organismo.
 
 ## RESPUESTA
 
 El Ministeriode CapitalHumano informaque presentatrestablascon las altas y bajas de puestos de trabajo asalariados en el sector privado registrado, con desagregaciones por provincia, sector de actividad y tamaño del empleador.
 
+Estas tablas, son elaboradaspor la Secretaría de Trabajo,Empleo y Seguridad Social, Dirección Nacional
+
+---
+chunk_id: 30
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 19302
+overlap_range: "(682, 808)"
+word_count: 103
+lang: es
+method: static
+---
+
+tamaño del empleador.
+
 Estas tablas, son elaboradaspor la Secretaría de Trabajo,Empleo y Seguridad Social, Dirección Nacional de Estudios y Estadísticas Laborales (Observatorio de Empleo y Dinámica Empresarial),tienen como fuente principal los registros administrativos del Sistema Integrado Previsional Argentino (SIPA), que contienen las declaracionesmensuales realizadas por las empresas respecto del personal en relación de dependencia, a los fines del pago de aportes y contribuciones patronales.
 
-Cabe señalar que no se dispone de información
+Cabe señalar que no se dispone de información sobre el motivo que origina el alta o la baja de trabajadores;es decir,resultaposible identificarel momento en que estos movimientos se producen, pero no la causa que los explica.
+
+NOTA: Se adjunta
 
 ---
 chunk_id: 31
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 19789
-overlap_range: "(693, 795)"
-word_count: 106
+split_idx_start: 19959
+overlap_range: "(657, 747)"
+word_count: 105
 lang: es
 method: static
 ---
 
-fines del pago de aportes y contribuciones patronales.
-
-Cabe señalar que no se dispone de información sobre el motivo que origina el alta o la baja de trabajadores;es decir,resultaposible identificarel momento en que estos movimientos se producen, pero no la causa que los explica.
+en que estos movimientos se producen, pero no la causa que los explica.
 
 NOTA: Se adjunta Anexo Pregunta N° 50, del presente informe .
 
@@ -613,24 +608,20 @@ EMPLEO, REGISTRACIÓN LABORALY RIGI Informe según registros,cantidad totalde tr
 
 ## RESPUESTA
 
-El Ministeriode Economía informaque los 12 proyectosaprobadosen el
+El Ministeriode Economía informaque los 12 proyectosaprobadosen el marco del RIGI, sumado al Proyecto Diablillos, que cuenta a la fecha con recomendación de aprobación porpartedel Comité Evaluadorde ProyectosRIGI y fue elevado para su resolución final por parte de
 
 ---
 chunk_id: 32
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 20404
-overlap_range: "(615, 773)"
-word_count: 103
+split_idx_start: 20612
+overlap_range: "(653, 761)"
+word_count: 71
 lang: es
 method: static
 ---
 
-cantidadde trabajadorescontratadosy tiempo promedio de permanencia laboral.
-
-## RESPUESTA
-
-El Ministeriode Economía informaque los 12 proyectosaprobadosen el marco del RIGI, sumado al Proyecto Diablillos, que cuenta a la fecha con recomendación de aprobación porpartedel Comité Evaluadorde ProyectosRIGI y fue elevado para su resolución final por parte de la Autoridadde Aplicación, proyectanla generación de 36.873 empleos, sumando directos e indirectos y tomando en consideración la proyección de empleo de las etapas de construcción y operación. Los siguientes cuadros detallan la proyección de empleo por proyecto, sector y ubicación geográfica, para los 13 proyectos referidos, y para los 21 en proceso de evaluación.
+aprobación porpartedel Comité Evaluadorde ProyectosRIGI y fue elevado para su resolución final por parte de la Autoridadde Aplicación, proyectanla generación de 36.873 empleos, sumando directos e indirectos y tomando en consideración la proyección de empleo de las etapas de construcción y operación. Los siguientes cuadros detallan la proyección de empleo por proyecto, sector y ubicación geográfica, para los 13 proyectos referidos, y para los 21 en proceso de evaluación.
 
 | Proyecto
 
@@ -638,109 +629,188 @@ El Ministeriode Economía informaque los 12 proyectosaprobadosen el marco del RI
 chunk_id: 33
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 21042
-overlap_range: "(638, 735)"
-word_count: 20
-lang: es
-method: static
----
-
-geográfica, para los 13 proyectos referidos, y para los 21 en proceso de evaluación.
-
-| Proyecto                                 | VPU                                                | Sector
-
----
-chunk_id: 34
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 21213
-overlap_range: "(171, 193)"
-word_count: 29
-lang: es
-method: static
----
-
-| Sector            | Inversión Total (US$ 'MM)   | Ubicación        | Estado de Tramitación   |   Empleo Directo e Indirecto |
-|------------------------------------------|----------------------------------------------------|-------------------|-----------------------------|------------------|-------------------------|------------------------------|
-| Rincón                                   | Rincón Mining Pty  Ltd. Sucursal  Argentina
-
----
-chunk_id: 35
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 21615
-overlap_range: "(402, 454)"
-word_count: 16
-lang: es
-method: static
----
-
-| Rincón Mining Pty  Ltd. Sucursal  Argentina        | Minería           | $2.744                      | Salta            | Aprobado                |
-
----
-chunk_id: 36
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 21767
-overlap_range: "(152, 168)"
+split_idx_start: 21114
+overlap_range: "(502, 517)"
 word_count: 15
 lang: es
 method: static
 ---
 
-|                        1.985 |
-| Proyecto  Siderúrgico  Argentino         | SIDERSA ACERÍA  S.D.E.                             | Siderurgia        | $286
+| VPU                                                | Sector            | Inversión Total (US$ 'MM)   | Ubicación        | Estado de Tramitación
+
+---
+chunk_id: 34
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 21233
+overlap_range: "(119, 164)"
+word_count: 28
+lang: es
+method: static
+---
+
+| Ubicación        | Estado de Tramitación   |   Empleo Directo e Indirecto |
+|------------------------------------------|----------------------------------------------------|-------------------|-----------------------------|------------------|-------------------------|------------------------------|
+| Parque Solar El Quemado                  | LUZ DEL CAMPO  S.A.                                | Energía Eléctrica | $211
+
+---
+chunk_id: 35
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 21652
+overlap_range: "(419, 439)"
+word_count: 14
+lang: es
+method: static
+---
+
+| $211                        | Mendoza          | Aprobado                |                      384     |
+| Vaca Muerta  Oil Sur
+
+---
+chunk_id: 36
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 21779
+overlap_range: "(127, 145)"
+word_count: 13
+lang: es
+method: static
+---
+
+Sur                     | VMOS S.A.                                          | Petróleo y Gas    | $2.900                      | Río Negro
 
 ---
 chunk_id: 37
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 21925
-overlap_range: "(158, 173)"
-word_count: 16
+split_idx_start: 21896
+overlap_range: "(117, 141)"
+word_count: 18
 lang: es
 method: static
 ---
 
-| Buenos Aires     | Aprobado                |                        3.8   |
-| Parque Eólico  Olavarría                 | GENERACIÓN  ELÉCTRICA  ARGENTINA
+| Río Negro        | Aprobado                |                        3.108 |
+| Sal de Oro II                            | POSCO ARGENTINA SAU SDE
 
 ---
 chunk_id: 38
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 22059
-overlap_range: "(134, 178)"
-word_count: 21
+split_idx_start: 22018
+overlap_range: "(122, 158)"
+word_count: 16
 lang: es
 method: static
 ---
 
-| GENERACIÓN  ELÉCTRICA  ARGENTINA  RENOVABLE I S.A. | Energía Eléctrica | $276                        | Buenos Aires     | Aprobado                |                      165     |
-
-|
+| POSCO ARGENTINA SAU SDE                            | Minería           | $845                        | Catamarca- Salta | En Evaluación           |
 
 ---
 chunk_id: 39
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 22231
-overlap_range: "(172, 194)"
-word_count: 6
+split_idx_start: 22166
+overlap_range: "(148, 164)"
+word_count: 20
 lang: es
 method: static
 ---
 
-165     |
-
-|                                                                              | Sucursal Dedicada
+|                        2.335 |
+| Proyecto de  Licuefacción de Gas Natural | SOUTHERN  ENERGY S.A.                              | Petróleo y Gas    | $15.156
 
 ---
 chunk_id: 40
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 22323
-overlap_range: "(92, 124)"
+split_idx_start: 22334
+overlap_range: "(168, 183)"
+word_count: 10
+lang: es
+method: static
+---
+
+| Río Negro        | Aprobado                |                      836     |
+| Rincón
+
+---
+chunk_id: 41
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 22450
+overlap_range: "(116, 131)"
+word_count: 15
+lang: es
+method: static
+---
+
+| Rincón Mining Pty  Ltd. Sucursal  Argentina        | Minería           | $2.744                      | Salta            | Aprobado
+
+---
+chunk_id: 42
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 22593
+overlap_range: "(143, 167)"
+word_count: 15
+lang: es
+method: static
+---
+
+| Aprobado                |                        1.985 |
+| Proyecto  Siderúrgico  Argentino         | SIDERSA ACERÍA  S.D.E.                             | Siderurgia
+
+---
+chunk_id: 43
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 22744
+overlap_range: "(151, 177)"
+word_count: 16
+lang: es
+method: static
+---
+
+| Siderurgia        | $286                        | Buenos Aires     | Aprobado                |                        3.8   |
+| Parque Eólico  Olavarría
+
+---
+chunk_id: 44
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 22867
+overlap_range: "(123, 165)"
+word_count: 24
+lang: es
+method: static
+---
+
+3.8   |
+| Parque Eólico  Olavarría                 | GENERACIÓN  ELÉCTRICA  ARGENTINA  RENOVABLE I S.A. | Energía Eléctrica | $276                        | Buenos Aires     | Aprobado                |
+
+---
+chunk_id: 45
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 23065
+overlap_range: "(198, 214)"
+word_count: 4
+lang: es
+method: static
+---
+
+|                      165     |
+
+|
+
+---
+chunk_id: 46
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 23158
+overlap_range: "(93, 108)"
 word_count: 3
 lang: es
 method: static
@@ -749,39 +819,39 @@ method: static
 | Sucursal Dedicada
 
 ---
-chunk_id: 41
+chunk_id: 47
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 22425
+split_idx_start: 23260
 overlap_range: "(102, 117)"
-word_count: 12
+word_count: 9
 lang: es
 method: static
 ---
 
-| Sucursal Dedicada   | Sucursal Dedicada   | Sucursal Dedicada                    | Sucursal Dedicada
+| Sucursal Dedicada   | Sucursal Dedicada   | Sucursal Dedicada
 
 ---
-chunk_id: 42
+chunk_id: 48
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 22561
-overlap_range: "(136, 168)"
+split_idx_start: 23396
+overlap_range: "(136, 151)"
 word_count: 15
 lang: es
 method: static
 ---
 
 | Sucursal Dedicada           | Sucursal Dedicada   |
-|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|--------------------------------------|-----------------------------|---------------------|
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|--------------------------------------|-----------------------------|---------------------|
 | Hombre Muerto Oeste                                                          | GALAN SDE
 
 ---
-chunk_id: 43
+chunk_id: 49
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 23074
-overlap_range: "(513, 537)"
+split_idx_start: 23896
+overlap_range: "(500, 524)"
 word_count: 3
 lang: es
 method: static
@@ -790,10 +860,10 @@ method: static
 | GALAN SDE
 
 ---
-chunk_id: 44
+chunk_id: 50
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 23168
+split_idx_start: 23990
 overlap_range: "(94, 109)"
 word_count: 6
 lang: es
@@ -803,10 +873,10 @@ method: static
 | Minería             | $292                | Catamarca
 
 ---
-chunk_id: 45
+chunk_id: 51
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 23266
+split_idx_start: 24088
 overlap_range: "(98, 123)"
 word_count: 11
 lang: es
@@ -817,10 +887,10 @@ method: static
 | Proyecto Los  Azules
 
 ---
-chunk_id: 46
+chunk_id: 52
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 23394
+split_idx_start: 24216
 overlap_range: "(128, 143)"
 word_count: 5
 lang: es
@@ -830,145 +900,52 @@ method: static
 | Andes Corporacion  Minera S.A.
 
 ---
-chunk_id: 47
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 23506
-overlap_range: "(112, 127)"
-word_count: 0
-lang: es
-method: static
----
-
-
-
----
-chunk_id: 48
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 23591
-overlap_range: "(85, 100)"
-word_count: 11
-lang: es
-method: static
----
-
-| Minería             | $2.672              | San Juan                             | Aprobado                    | 7.391
-
----
-chunk_id: 49
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 23708
-overlap_range: "(117, 138)"
-word_count: 11
-lang: es
-method: static
----
-
-| 7.391               |
-| Terminal  Multipropósito  Timbúes                                            | TERMINAL TIMBÚES S.A.
-
----
-chunk_id: 50
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 23851
-overlap_range: "(143, 158)"
-word_count: 0
-lang: es
-method: static
----
-
-
-
----
-chunk_id: 51
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 23936
-overlap_range: "(85, 100)"
-word_count: 7
-lang: es
-method: static
----
-
-| Infraestructura     | $277                | Santa Fe
-
----
-chunk_id: 52
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 24050
-overlap_range: "(114, 129)"
-word_count: 8
-lang: es
-method: static
----
-
-| Aprobado                    | 9.700               |
-| Nuevo  Gualcamayo
-
----
 chunk_id: 53
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24168
-overlap_range: "(118, 133)"
-word_count: 5
-lang: es
-method: static
----
-
-| MINAS  ARGENTINAS  SUCURSAL  DEDICADA
-
----
-chunk_id: 54
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 24285
-overlap_range: "(117, 132)"
+split_idx_start: 24328
+overlap_range: "(112, 127)"
 word_count: 4
 lang: es
 method: static
 ---
 
-| Minería             | $665
+| Minería             | $2.672
 
 ---
-chunk_id: 55
+chunk_id: 54
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24378
-overlap_range: "(93, 113)"
+split_idx_start: 24414
+overlap_range: "(86, 115)"
 word_count: 14
 lang: es
 method: static
 ---
 
-| $665                | San Juan                             | Aprobado                    | 4.500               |
-| Sal de Vida
+Minería             | $2.672              | San Juan                             | Aprobado                    | 7.391               |
+| Terminal  Multipropósito
 
 ---
-chunk_id: 56
+chunk_id: 55
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24491
-overlap_range: "(113, 140)"
-word_count: 12
+split_idx_start: 24536
+overlap_range: "(122, 162)"
+word_count: 9
 lang: es
 method: static
 ---
 
 |
-| Sal de Vida                                                                  | Galaxy Lithium (Sal  de Vida) S.A.
+| Terminal  Multipropósito  Timbúes                                            | TERMINAL TIMBÚES S.A.
 
 ---
-chunk_id: 57
+chunk_id: 56
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24617
-overlap_range: "(126, 141)"
+split_idx_start: 24673
+overlap_range: "(137, 152)"
 word_count: 0
 lang: es
 method: static
@@ -977,38 +954,118 @@ method: static
 
 
 ---
-chunk_id: 58
+chunk_id: 57
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24702
+split_idx_start: 24758
 overlap_range: "(85, 100)"
-word_count: 9
+word_count: 11
 lang: es
 method: static
 ---
 
-| Minería             | $818                | Catamarca                            | En Evaluación
+| Infraestructura     | $277                | Santa Fe                             | Aprobado                    | 9.700
+
+---
+chunk_id: 58
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 24881
+overlap_range: "(123, 144)"
+word_count: 11
+lang: es
+method: static
+---
+
+| 9.700               |
+| Nuevo  Gualcamayo                                                            | MINAS  ARGENTINAS  SUCURSAL  DEDICADA
 
 ---
 chunk_id: 59
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24810
-overlap_range: "(108, 136)"
-word_count: 16
+split_idx_start: 24991
+overlap_range: "(110, 156)"
+word_count: 4
 lang: es
 method: static
 ---
 
-| En Evaluación               | 1.404               |
-| Parque Eólico  La Rinconada                                                  | VIENTOS LA  RINCONADA S.A.U.
+MINAS  ARGENTINAS  SUCURSAL  DEDICADA
 
 ---
 chunk_id: 60
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 24940
-overlap_range: "(130, 170)"
+split_idx_start: 25107
+overlap_range: "(116, 131)"
+word_count: 9
+lang: es
+method: static
+---
+
+| Minería             | $665                | San Juan                             | Aprobado
+
+---
+chunk_id: 61
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 25213
+overlap_range: "(106, 130)"
+word_count: 9
+lang: es
+method: static
+---
+
+| Aprobado                    | 4.500               |
+| Sal de Vida
+
+---
+chunk_id: 62
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 25325
+overlap_range: "(112, 127)"
+word_count: 7
+lang: es
+method: static
+---
+
+| Galaxy Lithium (Sal  de Vida) S.A.
+
+---
+chunk_id: 63
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 25439
+overlap_range: "(114, 129)"
+word_count: 6
+lang: es
+method: static
+---
+
+| Minería             | $818                | Catamarca
+
+---
+chunk_id: 64
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 25537
+overlap_range: "(98, 123)"
+word_count: 13
+lang: es
+method: static
+---
+
+| Catamarca                            | En Evaluación               | 1.404               |
+| Parque Eólico  La Rinconada
+
+---
+chunk_id: 65
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 25677
+overlap_range: "(140, 155)"
 word_count: 5
 lang: es
 method: static
@@ -1017,10 +1074,10 @@ method: static
 | VIENTOS LA  RINCONADA S.A.U.
 
 ---
-chunk_id: 61
+chunk_id: 66
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25050
+split_idx_start: 25787
 overlap_range: "(110, 125)"
 word_count: 8
 lang: es
@@ -1030,25 +1087,25 @@ method: static
 | Energía Eléctrica   | $219                | Buenos Aires
 
 ---
-chunk_id: 62
+chunk_id: 67
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25169
-overlap_range: "(119, 134)"
-word_count: 9
+split_idx_start: 25894
+overlap_range: "(107, 134)"
+word_count: 12
 lang: es
 method: static
 ---
 
-| En Evaluación               | 809                 |
+| Buenos Aires                         | En Evaluación               | 809                 |
 | Proyecto  Veladero
 
 ---
-chunk_id: 63
+chunk_id: 68
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25290
-overlap_range: "(121, 136)"
+split_idx_start: 26027
+overlap_range: "(133, 148)"
 word_count: 13
 lang: es
 method: static
@@ -1057,10 +1114,10 @@ method: static
 | Minera Andina del Sol S.R.L. Suc Ded 1  (MASSD1) Minera del Mojotoro
 
 ---
-chunk_id: 64
+chunk_id: 69
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25432
+split_idx_start: 26169
 overlap_range: "(142, 157)"
 word_count: 7
 lang: es
@@ -1070,10 +1127,10 @@ method: static
 | Minería             | $436                | San Juan
 
 ---
-chunk_id: 65
+chunk_id: 70
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25538
+split_idx_start: 26275
 overlap_range: "(106, 121)"
 word_count: 9
 lang: es
@@ -1084,10 +1141,10 @@ method: static
 | Arenas de  Cercanías
 
 ---
-chunk_id: 66
+chunk_id: 71
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25658
+split_idx_start: 26395
 overlap_range: "(120, 135)"
 word_count: 11
 lang: es
@@ -1097,24 +1154,24 @@ method: static
 | S.A., Frontera S.A.,  AFAO SGP S.A.,  Minera Orosmayo  S.A., Wellknows
 
 ---
-chunk_id: 67
+chunk_id: 72
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25802
+split_idx_start: 26539
 overlap_range: "(144, 159)"
-word_count: 7
+word_count: 10
 lang: es
 method: static
 ---
 
-| Minería             | $233                | Río Negro-ER
+| Minería             | $233                | Río Negro-ER                         | En Evaluación
 
 ---
-chunk_id: 68
+chunk_id: 73
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 25912
-overlap_range: "(110, 125)"
+split_idx_start: 26649
+overlap_range: "(110, 138)"
 word_count: 9
 lang: es
 method: static
@@ -1124,10 +1181,10 @@ method: static
 | El Pachón
 
 ---
-chunk_id: 69
+chunk_id: 74
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 26027
+split_idx_start: 26764
 overlap_range: "(115, 130)"
 word_count: 7
 lang: es
@@ -1137,226 +1194,133 @@ method: static
 | Glencore Pachón  S.A. Minera Agua Rica
 
 ---
-chunk_id: 70
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26145
-overlap_range: "(118, 133)"
-word_count: 4
-lang: es
-method: static
----
-
-| Minería             | $11.600
-
----
-chunk_id: 71
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26238
-overlap_range: "(93, 116)"
-word_count: 14
-lang: es
-method: static
----
-
-| $11.600             | San Juan                             | En Evaluación               | 12.350              |
-| Agua Rica
-
----
-chunk_id: 72
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26359
-overlap_range: "(121, 147)"
-word_count: 8
-lang: es
-method: static
----
-
-|
-| Agua Rica                                                                    | LLC, Sucursal  Argentina
-
----
-chunk_id: 73
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26477
-overlap_range: "(118, 133)"
-word_count: 0
-lang: es
-method: static
----
-
-
-
----
-chunk_id: 74
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26562
-overlap_range: "(85, 100)"
-word_count: 9
-lang: es
-method: static
----
-
-| Minería             | $6.699              | Catamarca                            | En Evaluación
-
----
 chunk_id: 75
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 26672
-overlap_range: "(110, 138)"
-word_count: 11
-lang: es
-method: static
----
-
-| En Evaluación               | 8.200               |
-| Expansión  Fase 1B (Fénix)
-
----
-chunk_id: 76
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 26801
-overlap_range: "(129, 144)"
+split_idx_start: 26882
+overlap_range: "(118, 133)"
 word_count: 7
 lang: es
 method: static
 ---
 
-| MINERA DEL  ALTIPLANO S.A  Sucursal Dedicada
+| Minería             | $11.600             | San Juan
+
+---
+chunk_id: 76
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 26983
+overlap_range: "(101, 124)"
+word_count: 12
+lang: es
+method: static
+---
+
+| San Juan                             | En Evaluación               | 12.350              |
+| Agua Rica
 
 ---
 chunk_id: 77
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 26924
-overlap_range: "(123, 138)"
-word_count: 6
-lang: es
-method: static
----
-
-| Minería             | $531                | Catamarca
-
----
-chunk_id: 78
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27032
-overlap_range: "(108, 123)"
-word_count: 9
-lang: es
-method: static
----
-
-| Aprobado                    | 1.273               |
-| Gasoducto  Dedicado  SESA
-
----
-chunk_id: 79
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27156
+split_idx_start: 27107
 overlap_range: "(124, 139)"
-word_count: 5
-lang: es
-method: static
----
-
-| San Matías Pipeline  S.A.
-
----
-chunk_id: 80
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27263
-overlap_range: "(107, 122)"
-word_count: 6
-lang: es
-method: static
----
-
-| Petróleo y Gas      | $1.300
-
----
-chunk_id: 81
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27348
-overlap_range: "(85, 120)"
-word_count: 20
-lang: es
-method: static
----
-
-| Petróleo y Gas      | $1.300              | Río Negro- Neuquen                   | En Evaluación               | 2.489               |
-| Litio Angeles  Argentina
-
----
-chunk_id: 82
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27513
-overlap_range: "(165, 180)"
-word_count: 9
-lang: es
-method: static
----
-
-| Potasio y Litio de  Argentina SA Transportadora de
-
----
-chunk_id: 83
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 27641
-overlap_range: "(128, 143)"
 word_count: 4
 lang: es
 method: static
 ---
 
-| Minería             | $726
+| LLC, Sucursal  Argentina
 
 ---
-chunk_id: 84
+chunk_id: 78
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 27734
-overlap_range: "(93, 113)"
-word_count: 14
+split_idx_start: 27214
+overlap_range: "(107, 122)"
+word_count: 2
 lang: es
 method: static
 ---
 
-| $726                | Salta                                | En Evaluación               | 2.931               |
-| Ampliación del  GPM
+| Minería
 
 ---
-chunk_id: 85
+chunk_id: 79
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 27849
-overlap_range: "(115, 149)"
+split_idx_start: 27299
+overlap_range: "(85, 108)"
+word_count: 17
+lang: es
+method: static
+---
+
+| Minería             | $6.699              | Catamarca                            | En Evaluación               | 8.200               |
+| Expansión  Fase 1B (Fénix)
+
+---
+chunk_id: 80
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 27428
+overlap_range: "(129, 169)"
 word_count: 13
 lang: es
 method: static
 ---
 
 |
-| Ampliación del  GPM                                                          | Gas del Sur S.A  Sucursal Dedicada 1
+| Expansión  Fase 1B (Fénix)                                                   | MINERA DEL  ALTIPLANO S.A  Sucursal Dedicada
 
 ---
-chunk_id: 86
+chunk_id: 81
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 27983
-overlap_range: "(134, 149)"
+split_idx_start: 27576
+overlap_range: "(148, 163)"
+word_count: 3
+lang: es
+method: static
+---
+
+| Minería             |
+
+---
+chunk_id: 82
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 27661
+overlap_range: "(85, 109)"
+word_count: 13
+lang: es
+method: static
+---
+
+| Minería             | $531                | Catamarca                            | Aprobado                    | 1.273               |
+| Gasoducto
+
+---
+chunk_id: 83
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 27784
+overlap_range: "(123, 150)"
+word_count: 10
+lang: es
+method: static
+---
+
+|
+| Gasoducto  Dedicado  SESA                                                    | San Matías Pipeline  S.A.
+
+---
+chunk_id: 84
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 27915
+overlap_range: "(131, 146)"
 word_count: 0
 lang: es
 method: static
@@ -1365,38 +1329,118 @@ method: static
 
 
 ---
-chunk_id: 87
+chunk_id: 85
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 28068
+split_idx_start: 28000
 overlap_range: "(85, 100)"
-word_count: 12
+word_count: 15
 lang: es
 method: static
 ---
 
-| Petróleo y Gas      | $550                | La Pampa                             | En Evaluación
+| Petróleo y Gas      | $1.300              | Río Negro- Neuquen                   | En Evaluación               | 2.489
+
+---
+chunk_id: 86
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28135
+overlap_range: "(135, 156)"
+word_count: 16
+lang: es
+method: static
+---
+
+| 2.489               |
+| Litio Angeles  Argentina                                                     | Potasio y Litio de  Argentina SA Transportadora de
+
+---
+chunk_id: 87
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28293
+overlap_range: "(158, 173)"
+word_count: 2
+lang: es
+method: static
+---
+
+| Minería
 
 ---
 chunk_id: 88
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 28179
-overlap_range: "(111, 139)"
-word_count: 8
+split_idx_start: 28378
+overlap_range: "(85, 108)"
+word_count: 11
 lang: es
 method: static
 ---
 
-| En Evaluación               | 7.535               |
-| NCA+
+| Minería             | $726                | Salta                                | En Evaluación               | 2.931
 
 ---
 chunk_id: 89
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 28290
-overlap_range: "(111, 126)"
+split_idx_start: 28495
+overlap_range: "(117, 138)"
+word_count: 15
+lang: es
+method: static
+---
+
+| 2.931               |
+| Ampliación del  GPM                                                          | Gas del Sur S.A  Sucursal Dedicada 1
+
+---
+chunk_id: 90
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28618
+overlap_range: "(123, 155)"
+word_count: 3
+lang: es
+method: static
+---
+
+Sucursal Dedicada 1
+
+---
+chunk_id: 91
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28720
+overlap_range: "(102, 117)"
+word_count: 14
+lang: es
+method: static
+---
+
+| Petróleo y Gas      | $550                | La Pampa                             | En Evaluación               | 7.535
+
+---
+chunk_id: 92
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28844
+overlap_range: "(124, 145)"
+word_count: 5
+lang: es
+method: static
+---
+
+| 7.535               |
+| NCA+
+
+---
+chunk_id: 93
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 28942
+overlap_range: "(98, 113)"
 word_count: 5
 lang: es
 method: static
@@ -1405,65 +1449,52 @@ method: static
 | Nuevo Central  Argentino S.A.
 
 ---
-chunk_id: 90
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 28401
-overlap_range: "(111, 126)"
-word_count: 12
-lang: es
-method: static
----
-
-| Infraestructura     | $200                | Santa Fe, Santiago del Estero, Chaco |
-
----
-chunk_id: 91
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 28507
-overlap_range: "(106, 154)"
-word_count: 51
-lang: es
-method: static
----
-
-| Santa Fe, Santiago del Estero, Chaco | En Evaluación               | 1.911               |
-| Tratamiento y  Transporte de  Hidrocarburos  Bajo del  Choique-La  Invernada | Gas y Petróleo del  Neuquén S.A. -  Pluspetrol Cuenca  Neuquina S.R.L.  - Unión Transitoria  " Planta de  Tratamiento Bajo del  Choique  -  La  Invernada " | Petróleo
-
----
-chunk_id: 92
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 28793
-overlap_range: "(286, 348)"
-word_count: 21
-lang: es
-method: static
----
-
-Tratamiento Bajo del  Choique  -  La  Invernada " | Petróleo y Gas      | $430                | Neuquén                              | En Evaluación               | 1.289
-
----
-chunk_id: 93
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 28955
-overlap_range: "(162, 183)"
-word_count: 12
-lang: es
-method: static
----
-
-| 1.289               |
-| Diablillos                                                                   | Pacific Rim Mining  Corporation Argentina SA
-
----
 chunk_id: 94
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 29059
-overlap_range: "(104, 158)"
+split_idx_start: 29053
+overlap_range: "(111, 126)"
+word_count: 15
+lang: es
+method: static
+---
+
+| Infraestructura     | $200                | Santa Fe, Santiago del Estero, Chaco | En Evaluación               |
+
+---
+chunk_id: 95
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 29204
+overlap_range: "(151, 167)"
+word_count: 43
+lang: es
+method: static
+---
+
+| 1.911               |
+| Tratamiento y  Transporte de  Hidrocarburos  Bajo del  Choique-La  Invernada | Gas y Petróleo del  Neuquén S.A. -  Pluspetrol Cuenca  Neuquina S.R.L.  - Unión Transitoria  " Planta de  Tratamiento Bajo del  Choique  -  La | Petróleo y Gas      | $430
+
+---
+chunk_id: 96
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 29486
+overlap_range: "(282, 302)"
+word_count: 12
+lang: es
+method: static
+---
+
+| $430                | Neuquén                              | En Evaluación               | 1.289               |
+| Diablillos
+
+---
+chunk_id: 97
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 29616
+overlap_range: "(130, 145)"
 word_count: 7
 lang: es
 method: static
@@ -1472,91 +1503,91 @@ method: static
 | Pacific Rim Mining  Corporation Argentina SA
 
 ---
-chunk_id: 95
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 29183
-overlap_range: "(124, 139)"
-word_count: 11
-lang: es
-method: static
----
-
-| Minería             | $764                | Salta, Catamarca                     | Aprobado por Comité
-
----
-chunk_id: 96
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 29297
-overlap_range: "(114, 147)"
-word_count: 15
-lang: es
-method: static
----
-
-| Aprobado por Comité         | 2.013               |
-| San Jorge Vicuña                                                             | Minera San Jorge
-
----
-chunk_id: 97
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 29423
-overlap_range: "(126, 156)"
-word_count: 8
-lang: es
-method: static
----
-
-| Minera San Jorge SA Vicuña Argentina SA
-
----
 chunk_id: 98
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 29542
-overlap_range: "(119, 134)"
-word_count: 18
+split_idx_start: 29740
+overlap_range: "(124, 139)"
+word_count: 2
 lang: es
 method: static
 ---
 
-| Minería Minería     | $630 $9.712         | Mendoza San Juan                     | En Evaluación En Evaluación | 6.300 31.700
+| Minería
 
 ---
 chunk_id: 99
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 29668
-overlap_range: "(126, 178)"
-word_count: 16
+split_idx_start: 29825
+overlap_range: "(85, 108)"
+word_count: 18
 lang: es
 method: static
 ---
 
-| En Evaluación En Evaluación | 6.300 31.700        |
-| Ampliación  Cauchari                                                         | Minera Exar Sucursal
+| Minería             | $764                | Salta, Catamarca                     | Aprobado por Comité         | 2.013               |
+| San Jorge Vicuña
 
 ---
 chunk_id: 100
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 29822
-overlap_range: "(154, 177)"
-word_count: 1
+split_idx_start: 29966
+overlap_range: "(141, 170)"
+word_count: 11
 lang: es
 method: static
 ---
 
-Sucursal
+San Jorge Vicuña                                                             | Minera San Jorge SA Vicuña Argentina SA
 
 ---
 chunk_id: 101
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 29915
-overlap_range: "(93, 108)"
+split_idx_start: 30099
+overlap_range: "(133, 148)"
+word_count: 6
+lang: es
+method: static
+---
+
+| Minería Minería     | $630 $9.712
+
+---
+chunk_id: 102
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 30184
+overlap_range: "(85, 126)"
+word_count: 22
+lang: es
+method: static
+---
+
+| Minería Minería     | $630 $9.712         | Mendoza San Juan                     | En Evaluación En Evaluación | 6.300 31.700        |
+| Ampliación  Cauchari
+
+---
+chunk_id: 103
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 30368
+overlap_range: "(184, 199)"
+word_count: 5
+lang: es
+method: static
+---
+
+| Minera Exar Sucursal  Dedicada
+
+---
+chunk_id: 104
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 30480
+overlap_range: "(112, 127)"
 word_count: 6
 lang: es
 method: static
@@ -1565,38 +1596,38 @@ method: static
 | Minería             | $1.241              | Jujuy
 
 ---
-chunk_id: 102
+chunk_id: 105
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30021
-overlap_range: "(106, 121)"
-word_count: 8
+split_idx_start: 30580
+overlap_range: "(100, 121)"
+word_count: 10
 lang: es
 method: static
 ---
 
-| En Evaluación               | 1.787               |
+| Jujuy                                | En Evaluación               | 1.787               |
 | Olaroz
 
 ---
-chunk_id: 103
+chunk_id: 106
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30134
-overlap_range: "(113, 128)"
-word_count: 2
+split_idx_start: 30699
+overlap_range: "(119, 134)"
+word_count: 5
 lang: es
 method: static
 ---
 
-| Dedicada
+| LIEX S.A. - Sucursal
 
 ---
-chunk_id: 104
+chunk_id: 107
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30228
-overlap_range: "(94, 109)"
+split_idx_start: 30802
+overlap_range: "(103, 118)"
 word_count: 0
 lang: es
 method: static
@@ -1605,10 +1636,10 @@ method: static
 
 
 ---
-chunk_id: 105
+chunk_id: 108
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30313
+split_idx_start: 30887
 overlap_range: "(85, 100)"
 word_count: 9
 lang: es
@@ -1618,38 +1649,38 @@ method: static
 | Minería             | $710                | Catamarca                            | En Evaluación
 
 ---
-chunk_id: 106
+chunk_id: 109
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30421
-overlap_range: "(108, 136)"
-word_count: 11
+split_idx_start: 30998
+overlap_range: "(111, 136)"
+word_count: 9
 lang: es
 method: static
 ---
 
-| En Evaluación               | 4.406               |
-| Salterra Lithium                                                             | LIEX
+Evaluación               | 4.406               |
+| Salterra Lithium                                                             | Dedicada
 
 ---
-chunk_id: 107
+chunk_id: 110
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30543
-overlap_range: "(122, 142)"
-word_count: 6
+split_idx_start: 31117
+overlap_range: "(119, 143)"
+word_count: 2
 lang: es
 method: static
 ---
 
-| LIEX S.A. - Sucursal  Dedicada
+| Dedicada
 
 ---
-chunk_id: 108
+chunk_id: 111
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30654
-overlap_range: "(111, 126)"
+split_idx_start: 31211
+overlap_range: "(94, 109)"
 word_count: 2
 lang: es
 method: static
@@ -1658,10 +1689,10 @@ method: static
 |                     |
 
 ---
-chunk_id: 109
+chunk_id: 112
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30741
+split_idx_start: 31298
 overlap_range: "(87, 102)"
 word_count: 3
 lang: es
@@ -1671,10 +1702,10 @@ method: static
 |                                      |                             |
 
 ---
-chunk_id: 110
+chunk_id: 113
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30829
+split_idx_start: 31386
 overlap_range: "(88, 103)"
 word_count: 11
 lang: es
@@ -1685,10 +1716,10 @@ method: static
 | Proyecto  Pozuelos  Pastos  Grandes                                          | Lithea Inc. Sucursal  Argentina
 
 ---
-chunk_id: 111
+chunk_id: 114
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 30974
+split_idx_start: 31531
 overlap_range: "(145, 160)"
 word_count: 0
 lang: es
@@ -1698,38 +1729,38 @@ method: static
 
 
 ---
-chunk_id: 112
+chunk_id: 115
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31059
+split_idx_start: 31616
 overlap_range: "(85, 100)"
-word_count: 9
+word_count: 11
 lang: es
 method: static
 ---
 
-| Minería             | $4.245              | Salta                                | En Evaluación
+| Minería             | $4.245              | Salta                                | En Evaluación               | 5.025
 
 ---
-chunk_id: 113
+chunk_id: 116
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31165
-overlap_range: "(106, 134)"
-word_count: 9
+split_idx_start: 31735
+overlap_range: "(119, 140)"
+word_count: 14
 lang: es
 method: static
 ---
 
-| En Evaluación               | 5.025               |
-| Duplicar Norte
+| 5.025               |
+| Duplicar Norte                                                               | Oleoductos del Valle  SDE Pampa Energia S.A.
 
 ---
-chunk_id: 114
+chunk_id: 117
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31285
-overlap_range: "(120, 135)"
+split_idx_start: 31842
+overlap_range: "(107, 160)"
 word_count: 9
 lang: es
 method: static
@@ -1738,38 +1769,38 @@ method: static
 | Oleoductos del Valle  SDE Pampa Energia S.A. -
 
 ---
-chunk_id: 115
+chunk_id: 118
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31409
+split_idx_start: 31966
 overlap_range: "(124, 139)"
-word_count: 8
+word_count: 11
 lang: es
 method: static
 ---
 
-| Petróleo y Gas      | $383                | Neuquén
+| Petróleo y Gas      | $383                | Neuquén                              | En Evaluación
 
 ---
-chunk_id: 116
+chunk_id: 119
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31520
-overlap_range: "(111, 126)"
+split_idx_start: 32078
+overlap_range: "(112, 139)"
 word_count: 9
 lang: es
 method: static
 ---
 
-| En Evaluación               | 1.323               |
-| Proyecto RDA
+En Evaluación               | 1.323               |
+| Proyecto RDA                                                                 |
 
 ---
-chunk_id: 117
+chunk_id: 120
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 31638
-overlap_range: "(118, 133)"
+split_idx_start: 32195
+overlap_range: "(117, 133)"
 word_count: 5
 lang: es
 method: static
@@ -1778,99 +1809,82 @@ method: static
 | Sucursal Dedicada  Proyecto RDA
 
 ---
-chunk_id: 118
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 31751
-overlap_range: "(113, 128)"
-word_count: 6
-lang: es
-method: static
----
-
-| Petróleo y Gas      | $4.522
-
----
-chunk_id: 119
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 31836
-overlap_range: "(85, 120)"
-word_count: 24
-lang: es
-method: static
----
-
-| Petróleo y Gas      | $4.522              | Neuquén                              | En Evaluación               | 2.448               |
-
-Fuente: Ministerio de Economía. Abril 2026.
-
-
-| Proyecto  Ampliación  Mega
-
----
-chunk_id: 120
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 31968
-overlap_range: "(132, 214)"
-word_count: 66
-lang: es
-method: static
----
-
-|
-
-Fuente: Ministerio de Economía. Abril 2026.
-
-
-| Proyecto  Ampliación  Mega   | Compañía Mega S.A.  Sucursal Dedicada TECPETROL S.A. -   | Petróleo y Gas   | $365   | Neuquén - La Pampa - Río Negro   | En Evaluación   |   792 |
-|------------------------------|----------------------------------------------------------|------------------|--------|----------------------------------|-----------------|-------|
-| UT RIGI Los  Toldos          | GAS Y PETROLEO  DEL NEUQUEN S.A.  - UT RIGI LOS  TOLDOS  | Petróleo y Gas   | $6.391 | Neuquén
-
----
 chunk_id: 121
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 32463
-overlap_range: "(495, 544)"
-word_count: 25
+split_idx_start: 32308
+overlap_range: "(113, 128)"
+word_count: 8
 lang: es
 method: static
 ---
 
-TOLDOS  | Petróleo y Gas   | $6.391 | Neuquén                          | En Evaluación   |  7.9  |
-| Jama Solaroz                 | JAMA SOLAROZ  SUCURSAL  DEDICADA                         | Minería
+| Petróleo y Gas      | $4.522              | Neuquén
 
 ---
 chunk_id: 122
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 32641
-overlap_range: "(178, 201)"
-word_count: 51
+split_idx_start: 32421
+overlap_range: "(113, 128)"
+word_count: 43
 lang: es
 method: static
 ---
 
-| Minería          | $1.151 | Jujuy                            | En Evaluación   |  2.88 |
+| En Evaluación               | 2.448               |
 
-## PREGUNTA N° 52
+Fuente: Ministerio de Economía. Abril 2026.
 
-TURISMOSOCIALY POLÍTICAS PÚBLICAS Informeen relación a las unidades turísticas de Embalse y Chapadmalal, ubicadas en las provinciasde Córdoba y Buenos Aires respectivamente;cual han sido los fundamentos en los que se sustentó la decisión de su
+
+| Proyecto  Ampliación  Mega   | Compañía Mega S.A.  Sucursal Dedicada TECPETROL S.A. -   | Petróleo y Gas   | $365   | Neuquén - La Pampa - Río Negro   | En Evaluación   |
 
 ---
 chunk_id: 123
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 32915
-overlap_range: "(274, 367)"
-word_count: 104
+split_idx_start: 32658
+overlap_range: "(237, 290)"
+word_count: 48
 lang: es
 method: static
 ---
 
-Aires respectivamente;cual han sido los fundamentos en los que se sustentó la decisión de su traspasode las Unidades turísticas, a la Agencia de Administración de Bienes del Estado (AABE).
+Neuquén - La Pampa - Río Negro   | En Evaluación   |   792 |
+|------------------------------|----------------------------------------------------------|------------------|--------|----------------------------------|-----------------|-------|
+| UT RIGI Los  Toldos          | GAS Y PETROLEO  DEL NEUQUEN S.A.  - UT RIGI LOS  TOLDOS  | Petróleo y Gas   | $6.391 | Neuquén                          | En Evaluación   |  7.9  |
+| Jama Solaroz
+
+---
+chunk_id: 124
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 33055
+overlap_range: "(397, 442)"
+word_count: 19
+lang: es
+method: static
+---
+
+En Evaluación   |  7.9  |
+| Jama Solaroz                 | JAMA SOLAROZ  SUCURSAL  DEDICADA                         | Minería          | $1.151 | Jujuy
+
+---
+chunk_id: 125
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 33219
+overlap_range: "(164, 179)"
+word_count: 88
+lang: es
+method: static
+---
+
+| En Evaluación   |  2.88 |
+
+## PREGUNTA N° 52
+
+TURISMOSOCIALY POLÍTICAS PÚBLICAS Informeen relación a las unidades turísticas de Embalse y Chapadmalal, ubicadas en las provinciasde Córdoba y Buenos Aires respectivamente;cual han sido los fundamentos en los que se sustentó la decisión de su traspasode las Unidades turísticas, a la Agencia de Administración de Bienes del Estado (AABE).
 
 ## RESPUESTA
 
@@ -1878,20 +1892,41 @@ La información que ustedsolicitapuede consultarlaen la respuestaa la Pregunta N
 
 ## PREGUNTA N° 53
 
-TURISMO SOCIAL Y POLÍTICAS PÚBLICAS Informe cantidad de inscriptos verificadasen los programasde turismosocial, con ambos destinos,durantelos años 2022, 2023, 2024 y 2025. Informeen esos períodos cantidad de personas alojadas y cantidad de escuelas que asistieronal encuentrofinal del Programa "Jóvenes y Memoria " en la sede de Chapadmalal, durante el mismo periodo. Informesi se evaluarony concretaron,dispositivosalternativos,para
+TURISMO SOCIAL Y POLÍTICAS PÚBLICAS Informe cantidad de inscriptos
 
 ---
-chunk_id: 124
+chunk_id: 126
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 33551
-overlap_range: "(636, 765)"
-word_count: 88
+split_idx_start: 33718
+overlap_range: "(499, 612)"
+word_count: 104
 lang: es
 method: static
 ---
 
-Memoria " en la sede de Chapadmalal, durante el mismo periodo. Informesi se evaluarony concretaron,dispositivosalternativos,para garantizar la continuidadde asistenciaa la costa atlántica y a la Provinciade Córdoba, por parte de niños, niñas, adolescentes y jubilados de todo el país. En ese caso, cuales y si están en ejecución.
+696 del presente informe.
+
+## PREGUNTA N° 53
+
+TURISMO SOCIAL Y POLÍTICAS PÚBLICAS Informe cantidad de inscriptos verificadasen los programasde turismosocial, con ambos destinos,durantelos años 2022, 2023, 2024 y 2025. Informeen esos períodos cantidad de personas alojadas y cantidad de escuelas que asistieronal encuentrofinal del Programa "Jóvenes y Memoria " en la sede de Chapadmalal, durante el mismo periodo. Informesi se evaluarony concretaron,dispositivosalternativos,para garantizar la continuidadde asistenciaa la costa atlántica y a la Provinciade Córdoba, por parte de niños, niñas, adolescentes y jubilados de todo el país. En ese caso, cuales y si están en ejecución.
+
+## RESPUESTA
+
+La Secretaría de Turismo y Ambiente
+
+---
+chunk_id: 127
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 34354
+overlap_range: "(636, 732)"
+word_count: 67
+lang: es
+method: static
+---
+
+En ese caso, cuales y si están en ejecución.
 
 ## RESPUESTA
 
@@ -1899,111 +1934,101 @@ La Secretaría de Turismo y Ambiente informa que la cantidad de personas alojada
 
 |   Año |   Chapadmalal |   Embalse |
 |-------|---------------|-----------|
-|  2022 |        59.902 |
-
----
-chunk_id: 125
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 34121
-overlap_range: "(570, 597)"
-word_count: 53
-lang: es
-method: static
----
-
-2022 |        59.902 |    26.46  |
+|  2022 |        59.902 |    26.46  |
 |  2023 |        84.382 |    31.899 |
 |  2024 |        11.266 |     2.846 |
 
-En relación con el programa "Jóvenes y Memoria " desarrollado en la Unidad Turística Chapadmalal, se informan los siguientes datos:
-
-|   Año |   Plazas ocupadas |   Escuelas participantes |
-|-------|-------------------|--------------------------|
-|  2022 |
-
----
-chunk_id: 126
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 34422
-overlap_range: "(301, 381)"
-word_count: 21
-lang: es
-method: static
----
-
-|
-|-------|-------------------|--------------------------|
-|  2022 |            18.254 |                  958     |
-|  2023 |            22.2   |                    1.498 |
-|  2024 |            14.8   |
-
----
-chunk_id: 127
-source: informe-145-hcdn-40-50_salida_docling.md
-page_number: 1
-split_idx_start: 34608
-overlap_range: "(186, 206)"
-word_count: 71
-lang: es
-method: static
----
-
-14.8   |                  762     |
-
-Con respectoal año 2025 se informaque las unidades turísticas fueronpuestas a disposición de AABE.
-
-En cuantoa la evaluación y eventual implementación de dispositivosalternativos para garantizar el acceso al turismo, cabe señalar que, conforme a las modificaciones introducidas por el Decreto 216/2025 a la Ley Nacional de Turismo, se ha redefinidoel rol del Estado Nacional en la materia, dejando de contemplarse la prestación directa de servicios de turismo
+En relación
 
 ---
 chunk_id: 128
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 35012
-overlap_range: "(404, 505)"
-word_count: 103
+split_idx_start: 34724
+overlap_range: "(370, 410)"
+word_count: 44
 lang: es
 method: static
 ---
 
-Estado Nacional en la materia, dejando de contemplarse la prestación directa de servicios de turismo social como una función propia de la Administración Pública Nacional.
+11.266 |     2.846 |
 
-En este marco,las políticas públicas se orientana la generación de condiciones para el desarrollo de la actividad turística, sin que corresponda al Estado Nacional garantizar de manera directa el acceso a destinos específicos, encontrándose en evaluación esquemas alternativosque promuevanel acceso al turismo mediante mecanismos más eficientes,en articulación con el sector privado y las jurisdicciones locales.
+En relación con el programa "Jóvenes y Memoria " desarrollado en la Unidad Turística Chapadmalal, se informan los siguientes datos:
 
-## PREGUNTA N° 54
-
-SISTEMA PREVISIONAL Y FONDO DE ASISTENCIA LABORALInforme que medidas de compensación presupuestariaha previstoel Poder Ejecutivo para cubrirel desfinanciamientode la
+|   Año |   Plazas ocupadas |   Escuelas participantes |
+|-------|-------------------|--------------------------|
+|  2022 |            18.254 |                  958     |
+|  2023 |
 
 ---
 chunk_id: 129
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 35645
-overlap_range: "(633, 771)"
-word_count: 102
+split_idx_start: 35054
+overlap_range: "(330, 353)"
+word_count: 36
 lang: es
 method: static
 ---
 
-DE ASISTENCIA LABORALInforme que medidas de compensación presupuestariaha previstoel Poder Ejecutivo para cubrirel desfinanciamientode la ANSES, considerandoque el FAL (Fondo de AsistenciaLaboral)detraeente el 1y 2,5% de las contribucionespatronalesque antes sostenían el Sistema Integrado de Previsión Social. Informe medidas a adoptar para garantizarpor parte de la Comisión Nacional de Valores que las administradorasde esos fondosno prioricenrentabilidadfinanciera,porsobrela liquidez para la coberturade indemnizaciones de los trabajadoresen tiempo y forma.
+|
+|  2023 |            22.2   |                    1.498 |
+|  2024 |            14.8   |                  762     |
 
-## RESPUESTA
+Con respectoal año 2025 se informaque las unidades turísticas fueronpuestas a disposición de AABE.
 
-El Ministeriode Economía, a través de la Comisión Nacional de Valores(CNV), informa que todavía no existe ninguna reglamentación de CNV respectoa los FAL. Para más información puede consultarla respuestaa la Pregunta N° 1976 del
+En cuantoa la evaluación y eventual implementación
 
 ---
 chunk_id: 130
 source: informe-145-hcdn-40-50_salida_docling.md
 page_number: 1
-split_idx_start: 36355
-overlap_range: "(710, 807)"
-word_count: 53
+split_idx_start: 35198
+overlap_range: "(144, 268)"
+word_count: 102
 lang: es
 method: static
 ---
 
-CNV respectoa los FAL. Para más información puede consultarla respuestaa la Pregunta N° 1976 del presente informe.
+informaque las unidades turísticas fueronpuestas a disposición de AABE.
+
+En cuantoa la evaluación y eventual implementación de dispositivosalternativos para garantizar el acceso al turismo, cabe señalar que, conforme a las modificaciones introducidas por el Decreto 216/2025 a la Ley Nacional de Turismo, se ha redefinidoel rol del Estado Nacional en la materia, dejando de contemplarse la prestación directa de servicios de turismo social como una función propia de la Administración Pública Nacional.
+
+En este marco,las políticas públicas se orientana la generación de condiciones para el desarrollo de la actividad turística, sin que corresponda al Estado Nacional garantizar de manera directa el acceso
+
+---
+chunk_id: 131
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 35803
+overlap_range: "(605, 707)"
+word_count: 102
+lang: es
+method: static
+---
+
+la actividad turística, sin que corresponda al Estado Nacional garantizar de manera directa el acceso a destinos específicos, encontrándose en evaluación esquemas alternativosque promuevanel acceso al turismo mediante mecanismos más eficientes,en articulación con el sector privado y las jurisdicciones locales.
+
+## PREGUNTA N° 54
+
+SISTEMA PREVISIONAL Y FONDO DE ASISTENCIA LABORALInforme que medidas de compensación presupuestariaha previstoel Poder Ejecutivo para cubrirel desfinanciamientode la ANSES, considerandoque el FAL (Fondo de AsistenciaLaboral)detraeente el 1y 2,5% de las contribucionespatronalesque antes sostenían el Sistema Integrado de Previsión Social. Informe medidas a adoptar para garantizarpor parte de la Comisión Nacional de Valores que las administradorasde esos fondosno
+
+---
+chunk_id: 132
+source: informe-145-hcdn-40-50_salida_docling.md
+page_number: 1
+split_idx_start: 36492
+overlap_range: "(689, 797)"
+word_count: 101
+lang: es
+method: static
+---
+
+adoptar para garantizarpor parte de la Comisión Nacional de Valores que las administradorasde esos fondosno prioricenrentabilidadfinanciera,porsobrela liquidez para la coberturade indemnizaciones de los trabajadoresen tiempo y forma.
+
+## RESPUESTA
+
+El Ministeriode Economía, a través de la Comisión Nacional de Valores(CNV), informa que todavía no existe ninguna reglamentación de CNV respectoa los FAL. Para más información puede consultarla respuestaa la Pregunta N° 1976 del presente informe.
 
 ## PREGUNTA N° 55
 
