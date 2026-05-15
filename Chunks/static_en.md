@@ -2,53 +2,55 @@
 
 ---
 chunk_id: 0
-source: OdontInlges_salida_pymupdf4llm.md
+source: InformeIngles.md
 page_number: 1
 split_idx_start: 0
-overlap_range: "(0, 143)"
-word_count: 110
+overlap_range: "(0, 92)"
+word_count: 104
 lang: en
 method: static
 ---
 
-# **National Constitution**
+# QUESTION No. 51
+EMPLOYMENT, LABOR REGISTRATION AND RIGI
+Report, according to records, the total number of workers hired in the projects that are being carried out through the RIGI. Provide details on the number and type of projects and their geographic location; for each one, indicate the number of workers hired and the average duration of employment.
 
-The Constitution of the Argentine Nation, which currently governs the Argentine Republic,
-was approved by a constitutional assembly held in the City of Santa Fe in 1853. After the
-May Revolution, the need arose to establish a Constitution for the Argentine Nation in order
-to create national unity, strengthen justice, and consolidate internal peace.
-
-
-The initial meeting took place on May 31, 1852, in the city of San Nicolás de los Arroyos,
-and is remembered as the “San Nicolás Agreement.” On May 1, 1853, the representatives of
-the provinces (except those from Buenos Aires), gathered in Santa Fe, enacted the National
-Constitution.
-
-
-The promulgated Constitution established:
-
-
--Lalo
+# RESPONSE
+The Ministry of Economy reports that the 12 projects approved within the framework of the RIGI, together with the Diablillos Project, which to date has a recommendation for approval by the RIGI Project Evaluation Committee and has been submitted for final resolution by the
 
 ---
 chunk_id: 1
-source: OdontInlges_salida_pymupdf4llm.md
+source: InformeIngles.md
 page_number: 1
-split_idx_start: 576
-overlap_range: "(576, 719)"
-word_count: 32
+split_idx_start: 550
+overlap_range: "(550, 642)"
+word_count: 104
 lang: en
 method: static
 ---
 
-(except those from Buenos Aires), gathered in Santa Fe, enacted the National
-Constitution.
+by the RIGI Project Evaluation Committee and has been submitted for final resolution by the Enforcement Authority, are projected to generate 36,873 jobs, including both direct and indirect employment, taking into account employment projections for both the construction and operational phases.
 
+The following tables detail the employment projections by project, sector, and geographic location for the 13 aforementioned projects, as well as for the 21 projects currently under evaluation.
+| Project | VPU | Sector | Total Investment (USD millions) | Location | Processing Status | Direct and Indirect Employment |
+|------------------------------------------|----------------------------------------------------|-------------------|-----------------------------|------------------|-------------------------|------------------------------|
+| El Quemado Solar Park | LUZ DEL CAMPO S.A. | Electric
 
-The promulgated Constitution established:
+---
+chunk_id: 2
+source: InformeIngles.md
+page_number: 1
+split_idx_start: 1138
+overlap_range: "(588, 894)"
+word_count: 94
+lang: en
+method: static
+---
 
-
--Lalo as the new savior of the people
-
--Reducted taxes of the wheat and meat
+and Indirect Employment |
+|------------------------------------------|----------------------------------------------------|-------------------|-----------------------------|------------------|-------------------------|------------------------------|
+| El Quemado Solar Park | LUZ DEL CAMPO S.A. | Electric Power | $211 | Mendoza | Approved | 384 |
+| Vaca Muerta Oil Sur | VMOS S.A. | Oil and Gas | $2,900 | Río Negro | Approved | 3,108 |
+| Sal de Oro II | POSCO ARGENTINA SAU SDE | Mining | $845 | Catamarca–Salta | Under Review | 2,335 |
+| Natural Gas Liquefaction Project | SOUTHERN ENERGY S.A. | Oil and Gas | $15,156 | Río Negro | Approved | 836 |
 

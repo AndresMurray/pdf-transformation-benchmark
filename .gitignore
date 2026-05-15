@@ -42,3 +42,4 @@ inputs/*
 outputs/*
 !outputs/.gitkeep
 .env
+Chunks/*
