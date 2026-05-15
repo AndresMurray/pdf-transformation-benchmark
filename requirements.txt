@@ -8,3 +8,4 @@ pymupdf
 pymupdf4llm==0.3.4
 ipykernel
 pathlib
+chonkie[all]
