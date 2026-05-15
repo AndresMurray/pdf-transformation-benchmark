@@ -15,15 +15,15 @@ method: static
 EMPLOYMENT, LABOR REGISTRATION AND RIGI
 Report, according to records, the total number of workers hired in the projects that are being carried out through the RIGI. Provide details on the number and type of projects and their geographic location; for each one, indicate the number of workers hired and the average duration of employment.
 
-# RESPONSE
+## RESPONSE
 The Ministry of Economy reports that the 12 projects approved within the framework of the RIGI, together with the Diablillos Project, which to date has a recommendation for approval by the RIGI Project Evaluation Committee and has been submitted for final resolution by the
 
 ---
 chunk_id: 1
 source: InformeIngles.md
 page_number: 1
-split_idx_start: 550
-overlap_range: "(550, 642)"
+split_idx_start: 551
+overlap_range: "(551, 643)"
 word_count: 104
 lang: en
 method: static
@@ -40,7 +40,7 @@ The following tables detail the employment projections by project, sector, and g
 chunk_id: 2
 source: InformeIngles.md
 page_number: 1
-split_idx_start: 1138
+split_idx_start: 1139
 overlap_range: "(588, 894)"
 word_count: 94
 lang: en

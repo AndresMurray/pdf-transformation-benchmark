@@ -12,3 +12,4 @@ pathlib
 # Data Splitting
 haystack-ai
 llama-index-core
+langchain-text-splitters
